@@ -1,6 +1,6 @@
 # CodeMonkey Kitchen Chaos
 
-An cooking simulation game built using Unity3d. Following this great [free tutorial from CodeMonkey](https://unitycodemonkey.com/kitchenchaoscourse.php).
+A cooking simulation game built with Unity3d. Following this great [free tutorial from CodeMonkey](https://unitycodemonkey.com/kitchenchaoscourse.php).
 
 What I learned:
 - Importance of writing clean code, and refactoring.
